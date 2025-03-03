@@ -95,4 +95,4 @@ cocktail-advisor/
 ├── scripts/
 │   ├── preprocess_Data.py
 
-![image](https://github.com/user-attachments/assets/4344def2-d6f3-4214-83a3-1517a1725215)
+https://github.com/user-attachments/assets/4344def2-d6f3-4214-83a3-1517a1725215
