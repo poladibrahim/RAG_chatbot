@@ -22,8 +22,8 @@ A Python-based chat application that integrates with a large language model (LLM
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cocktail-advisor.git
-cd cocktail-advisor
+git clone https://github.com/poladibrahim/RAG_chatbot.git
+cd RAG_chatbot
 ```
 
 2. Create a virtual environment:
@@ -95,3 +95,4 @@ cocktail-advisor/
 ├── scripts/
 │   ├── preprocess_Data.py
 
+![image](https://github.com/user-attachments/assets/4344def2-d6f3-4214-83a3-1517a1725215)
