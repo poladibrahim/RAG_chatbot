@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+httpx
+jinja2
+numpy
+pandas
+scikit-learn
+faiss-cpu
+sentence-transformers
+openai
+python-multipart
+pydantic_settings

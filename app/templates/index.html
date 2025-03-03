@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cocktail Advisor Chat</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <header>
+            <h1>Cocktail Advisor Chat</h1>
+            <p>Ask me about cocktails, share your preferences, or get recommendations!</p>
+        </header>
+        
+        <div class="chat-box" id="chatBox">
+            <div class="message system-message">
+                <div class="message-content">
+                    <p>Hello! I'm your Cocktail Advisor. You can ask me questions like:</p>
+                    <ul>
+                        <li>What are 5 cocktails containing lemon?</li>
+                        <li>What are 5 non-alcoholic cocktails containing sugar?</li>
+                        <li>I love rum, lime, and mint!</li>
+                        <li>Recommend 5 cocktails with my favorite ingredients</li>
+                        <li>Recommend a cocktail similar to "Mojito"</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="chat-input">
+            <input type="text" id="userInput" placeholder="Type your message here...">
+            <button id="sendButton">Send</button>
+        </div>
+        
+        <div class="preferences-panel">
+            <h3>My Preferences</h3>
+            <div class="preferences-content" id="preferencesContent">
+                <p><strong>Favorite Ingredients:</strong> <span id="favoriteIngredients">None yet</span></p>
+                <p><strong>Favorite Cocktails:</strong> <span id="favoriteCocktails">None yet</span></p>
+            </div>
+            <button id="clearPreferencesButton">Clear Preferences</button>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
