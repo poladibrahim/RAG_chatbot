@@ -63,6 +63,12 @@ Start the FastAPI server:
 python -m app.main
 ```
 
+Example screenshot:
+
+![WhatsApp Image 2025-03-04 at 11 43 07](https://github.com/user-attachments/assets/128da8cc-da8f-4a4f-8d85-120edac9d4dd)
+
+
+
 The application will be available at `http://localhost:8000`
 
 ## Project Structure
@@ -97,8 +103,6 @@ cocktail-advisor/
 
 
 
-
-![WhatsApp Image 2025-03-04 at 11 43 07](https://github.com/user-attachments/assets/128da8cc-da8f-4a4f-8d85-120edac9d4dd)
 
 
 
