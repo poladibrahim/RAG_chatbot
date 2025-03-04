@@ -96,3 +96,11 @@ cocktail-advisor/
 │   ├── preprocess_Data.py
 
 
+
+
+![WhatsApp Image 2025-03-04 at 11 43 07](https://github.com/user-attachments/assets/128da8cc-da8f-4a4f-8d85-120edac9d4dd)
+
+
+
+
+
